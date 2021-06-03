@@ -1,6 +1,6 @@
 Name     : util-linux-man
-Version  : 1.4.18
-Release  : 107
+Version  : 2.36.2
+Release  : 108
 Source1  : util-linux-man-2.36.2.tar.gz
 Summary  : No detailed summary available
 Group    : Development/Tools
